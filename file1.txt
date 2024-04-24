@@ -1,2 +1,0 @@
-ini file 1
-ini file dirubah tambah feature
