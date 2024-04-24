@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 iini file 2
 ini perubahan yang error
+=======
+ini file 2
+ini perubahan yang bener
+>>>>>>> 7f11429 (perubahan file2)
 
