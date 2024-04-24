@@ -1,3 +1,4 @@
-iini file 2
-ini perubahan yang error
+ini file 2
+ini perubahan yang bener
+
 
